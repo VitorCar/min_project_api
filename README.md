@@ -8,12 +8,10 @@ Ao digitar o nome de um cantor (ou banda) é a música de sua preferÊncia, o si
 
 ## Tecnologias Utilizadas
 
--**python 3**
--**API - https://www.lyrics.ovh/**
--**Streamlit - Para o desenvolvendo da aplicação web** 
+- **python 3**
+- **API - https://www.lyrics.ovh/**
+- **Streamlit - Para o desenvolvendo da aplicação web** 
 
 ## Imagem
 
-![image](https://github.com/user-attachments/assets/ea0dd891-c1fe-4543-bbda-37616e13e533)
-
-
+![image](https://github.com/user-attachments/assets/d1864df2-8c0d-4a01-84b8-717d2ef23b2b)
